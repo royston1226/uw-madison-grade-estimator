@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-uw-red: #C5050C;
+  --color-uw-red-dark: #9B0000;
+}

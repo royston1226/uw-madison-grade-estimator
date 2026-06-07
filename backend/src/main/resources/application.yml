@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: grade-estimator
+
+madgrades:
+  base-url: https://api.madgrades.com/v1
+  api-token: ${MADGRADES_API_TOKEN}
